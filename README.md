@@ -1,1 +1,3 @@
 # emu
+
+terminal emulator
